@@ -31,6 +31,5 @@ O README nada mais é que um arquivo de apresentação. É o “primeiro passo�
 
 Um outro detalhe importante, o README é um arquivo markdown (.md), o markdown é uma linguagem de marcação que serve para apresentar informações de forma organizada (como o HTML).
 </p>
-[repositório local](https://onebitcode.com/como-criar-um-readme-incrivel-para-seus-projetos-e-perfil-no-github/)
-<a href="https://onebitcode.com/como-criar-um-readme-incrivel-para-seus-projetos-e-perfil-no-github/">Continue a leitura no site onebitcode.com</a>
+<a href="https://onebitcode.com/como-criar-um-readme-incrivel-para-seus-projetos-e-perfil-no-github/">Continue a leitura no site onebitcode.com...</a>
 		

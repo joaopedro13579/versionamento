@@ -19,9 +19,12 @@ Já o arquivo "teste2.txt" foi adicionado diretamente no repositorio remoto a fi
 
 ## O que é Markdown
 
-Markdown é uma linguagem simples de marcação originalmente criada por John Gruber e Aaron Swartz. Markdown converte seu texto em HTML válido. Markdown é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples. (Wikipédia)
+Markdown é uma linguagem simples de marcação originalmente criada por John Gruber e Aaron Swartz. Markdown converte seu texto em HTML válido. Markdown é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples. [Wikipédia](https://pt.wikipedia.org/wiki/Markdown)
 
-## Uma utilização útil para o Markdown
+## [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+
+## Uma utilidade para o Markdown
+
 
 Programador(a), como está o README dos seus projetos no Github?
 
@@ -37,6 +40,5 @@ O README nada mais é que um arquivo de apresentação. É o “primeiro passo�
 
 Um outro detalhe importante, o README é um arquivo markdown (.md), o markdown é uma linguagem de marcação que serve para apresentar informações de forma organizada (como o HTML).
 
-<a href="https://onebitcode.com/como-criar-um-readme-incrivel-para-seus-projetos-e-perfil-no-github/">Continue a leitura no site onebitcode.com...</a>
 [Continue a leitura no site onebitcode.com...](https://onebitcode.com/como-criar-um-readme-incrivel-para-seus-projetos-e-perfil-no-github/)
 		

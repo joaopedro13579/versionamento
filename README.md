@@ -15,7 +15,8 @@ Já o arquivo "teste2.txt" foi adicionado diretamente no repositorio remoto a fi
 --Arquivo teste3 criado por Adilson utilizando a branch branch Adson710
 
 <html>
-	<body backgroundColor="blue">
-		<p1>Git Bash </p1>
+	<body>
+		<marquee direction="right"> Integração HTML no README.md</marquee>
+		
 	</body>
 </html>

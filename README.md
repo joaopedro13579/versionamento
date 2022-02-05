@@ -15,6 +15,7 @@ Já o arquivo "teste2.txt" foi adicionado diretamente no repositorio remoto a fi
 --Arquivo teste3 criado por Adilson utilizando a branch branch Adson710
 
 
+
 # Markdown no README.md
 
 Programador(a), como está o README dos seus projetos no Github?
@@ -33,3 +34,4 @@ Um outro detalhe importante, o README é um arquivo markdown (.md), o markdown �
 
 <a href="https://onebitcode.com/como-criar-um-readme-incrivel-para-seus-projetos-e-perfil-no-github/">Continue a leitura no site onebitcode.com...</a>
 		
+

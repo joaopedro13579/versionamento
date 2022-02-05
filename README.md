@@ -16,7 +16,7 @@ Já o arquivo "teste2.txt" foi adicionado diretamente no repositorio remoto a fi
 
 <html>
 	<body>
-		<!--><marquee direction="right"> Integração HTML no README.md</marquee><--!>
+		<h1>Integração HTML no README.md</h1>
 		
 	</body>
 </html>

@@ -16,7 +16,7 @@ Já o arquivo "teste2.txt" foi adicionado diretamente no repositorio remoto a fi
 
 
 # Markdown no README.md
-<p>
+
 Programador(a), como está o README dos seus projetos no Github?
 
 Ter um bom README pode aumentar suas chances de conseguir sua super vaga de programação quando um recrutador visitar o seu perfil, aumentar o uso das ferramentas que você criou e disponibilizou lá ou simplesmente fazer o dia a dia da sua equipe mais fácil na hora de usar um projeto (através das instruções deixadas lá)
@@ -30,6 +30,6 @@ Mas você sabe o que é o README??
 O README nada mais é que um arquivo de apresentação. É o “primeiro passo” ao abrir um novo projeto, seja pra ver a documentação, dicas essenciais que precisa saber para rodar o projeto, descrição de seu projeto, etc. Tudo isso pode e deve ser adicionado no README!
 
 Um outro detalhe importante, o README é um arquivo markdown (.md), o markdown é uma linguagem de marcação que serve para apresentar informações de forma organizada (como o HTML).
-</p>
+
 <a href="https://onebitcode.com/como-criar-um-readme-incrivel-para-seus-projetos-e-perfil-no-github/">Continue a leitura no site onebitcode.com...</a>
 		
